@@ -1,0 +1,4 @@
+// Aspierrow Data Plug - Starter Script
+document.addEventListener("DOMContentLoaded", function() {
+  console.log("Aspierrow Data Plug site loaded successfully!");
+});
